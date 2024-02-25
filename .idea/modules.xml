@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise_01 - Counter Incrementor/Exercise_01 - Counter Incrementor.iml" filepath="$PROJECT_DIR$/Exercise_01 - Counter Incrementor/Exercise_01 - Counter Incrementor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_01a - Adding/Exercise_01a - Adding.iml" filepath="$PROJECT_DIR$/Exercise_01a - Adding/Exercise_01a - Adding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_01b - Temperature Convertor/Exercise_01b - Temperature Convertor.iml" filepath="$PROJECT_DIR$/Exercise_01b - Temperature Convertor/Exercise_01b - Temperature Convertor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_01c - Computer/Exercise_01c - Computer.iml" filepath="$PROJECT_DIR$/Exercise_01c - Computer/Exercise_01c - Computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_02a - Counter Inc Dec Sync/Exercise_02a - Counter Inc Dec Sync.iml" filepath="$PROJECT_DIR$/Exercise_02a - Counter Inc Dec Sync/Exercise_02a - Counter Inc Dec Sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_02b - Burger Bar/Exercise_02b - Burger Bar.iml" filepath="$PROJECT_DIR$/Exercise_02b - Burger Bar/Exercise_02b - Burger Bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_02c - Thermometer/Exercise_02c - Thermometer.iml" filepath="$PROJECT_DIR$/Exercise_02c - Thermometer/Exercise_02c - Thermometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_02d - Confession Chair/Exercise_02d - Confession Chair.iml" filepath="$PROJECT_DIR$/Exercise_02d - Confession Chair/Exercise_02d - Confession Chair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_03a - Toilet/Exercise_03a - Toilet.iml" filepath="$PROJECT_DIR$/Exercise_03a - Toilet/Exercise_03a - Toilet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_03b - Fair Burger Bar/Exercise_03b - Fair Burger Bar.iml" filepath="$PROJECT_DIR$/Exercise_03b - Fair Burger Bar/Exercise_03b - Fair Burger Bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_03c - Notify At/Exercise_03c - Notify At.iml" filepath="$PROJECT_DIR$/Exercise_03c - Notify At/Exercise_03c - Notify At.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_03d - Bar/Exercise_03d - Bar.iml" filepath="$PROJECT_DIR$/Exercise_03d - Bar/Exercise_03d - Bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_04a - Door/Exercise_04a - Door.iml" filepath="$PROJECT_DIR$/Exercise_04a - Door/Exercise_04a - Door.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_04b - State Phone/Exercise_04b - State Phone.iml" filepath="$PROJECT_DIR$/Exercise_04b - State Phone/Exercise_04b - State Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_04c - Door v2/Exercise_04c - Door v2.iml" filepath="$PROJECT_DIR$/Exercise_04c - Door v2/Exercise_04c - Door v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_04d - State Phone v2/Exercise_04d - State Phone v2.iml" filepath="$PROJECT_DIR$/Exercise_04d - State Phone v2/Exercise_04d - State Phone v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_05a - Football/Exercise_05a - Football.iml" filepath="$PROJECT_DIR$/Exercise_05a - Football/Exercise_05a - Football.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_05b - Temperature Convertor/Exercise_05b - Temperature Convertor.iml" filepath="$PROJECT_DIR$/Exercise_05b - Temperature Convertor/Exercise_05b - Temperature Convertor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_06a - Bird/Exercise_06a - Bird.iml" filepath="$PROJECT_DIR$/Exercise_06a - Bird/Exercise_06a - Bird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_07a - Uppercase/Exercise_07a - Uppercase.iml" filepath="$PROJECT_DIR$/Exercise_07a - Uppercase/Exercise_07a - Uppercase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_08a - Auction/Exercise_08a - Auction.iml" filepath="$PROJECT_DIR$/Exercise_08a - Auction/Exercise_08a - Auction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_09a - Exercises/Exercise_09a - Exercises.iml" filepath="$PROJECT_DIR$/Exercise_09a - Exercises/Exercise_09a - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_10.0 - Register For Class/Exercise_10.0 - Register For Class.iml" filepath="$PROJECT_DIR$/Exercise_10.0 - Register For Class/Exercise_10.0 - Register For Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_10a - Socket Login/Exercise_10a - Socket Login.iml" filepath="$PROJECT_DIR$/Exercise_10a - Socket Login/Exercise_10a - Socket Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_11a - Socket login JSON/Exercise_11a - Socket login JSON.iml" filepath="$PROJECT_DIR$/Exercise_11a - Socket login JSON/Exercise_11a - Socket login JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_11b - Socket Task List/Exercise_11b - Socket Task List.iml" filepath="$PROJECT_DIR$/Exercise_11b - Socket Task List/Exercise_11b - Socket Task List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_11c - Socket Message/Exercise_11c - Socket Message.iml" filepath="$PROJECT_DIR$/Exercise_11c - Socket Message/Exercise_11c - Socket Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_12a - Socket Task List Broadcast/Exercise_12a - Socket Task List Broadcast.iml" filepath="$PROJECT_DIR$/Exercise_12a - Socket Task List Broadcast/Exercise_12a - Socket Task List Broadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_14a - Socket MVVM/Exercise_14a - Socket MVVM.iml" filepath="$PROJECT_DIR$/Exercise_14a - Socket MVVM/Exercise_14a - Socket MVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_15a - Singleton Multiton Log/Exercise_15a - Singleton Multiton Log.iml" filepath="$PROJECT_DIR$/Exercise_15a - Singleton Multiton Log/Exercise_15a - Singleton Multiton Log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_15b - Factory Method Network Package/Exercise_15b - Factory Method Network Package.iml" filepath="$PROJECT_DIR$/Exercise_15b - Factory Method Network Package/Exercise_15b - Factory Method Network Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_15b - Factory Method OneToMany/Exercise_15b - Factory Method OneToMany.iml" filepath="$PROJECT_DIR$/Exercise_15b - Factory Method OneToMany/Exercise_15b - Factory Method OneToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16a - RM Adding - Client/Exercise_16a - RM Adding - Client.iml" filepath="$PROJECT_DIR$/Exercise_16a - RM Adding - Client/Exercise_16a - RM Adding - Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16a - RM Adding - Server/Exercise_16a - RM Adding - Server.iml" filepath="$PROJECT_DIR$/Exercise_16a - RM Adding - Server/Exercise_16a - RM Adding - Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16b - RMI Login CallBack - Client/Exercise_16b - RMI Login CallBack - Client.iml" filepath="$PROJECT_DIR$/Exercise_16b - RMI Login CallBack - Client/Exercise_16b - RMI Login CallBack - Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16b - RMI Login CallBack - Server/Exercise_16b - RMI Login CallBack - Server.iml" filepath="$PROJECT_DIR$/Exercise_16b - RMI Login CallBack - Server/Exercise_16b - RMI Login CallBack - Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16c - RMI Task List - Client/Exercise_16c - RMI Task List - Client.iml" filepath="$PROJECT_DIR$/Exercise_16c - RMI Task List - Client/Exercise_16c - RMI Task List - Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16c - RMI Task List - Server/Exercise_16c - RMI Task List - Server.iml" filepath="$PROJECT_DIR$/Exercise_16c - RMI Task List - Server/Exercise_16c - RMI Task List - Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16d - RMI Task List Observer - Client/Exercise_16d - RMI Task List Observer - Client.iml" filepath="$PROJECT_DIR$/Exercise_16d - RMI Task List Observer - Client/Exercise_16d - RMI Task List Observer - Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_16d - RMI Task List Observer - Server/Exercise_16d - RMI Task List Observer - Server.iml" filepath="$PROJECT_DIR$/Exercise_16d - RMI Task List Observer - Server/Exercise_16d - RMI Task List Observer - Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_17a - RMI Login - Client/Exercise_17a - RMI Login - Client.iml" filepath="$PROJECT_DIR$/Exercise_17a - RMI Login - Client/Exercise_17a - RMI Login - Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_17a - RMI Login - Server/Exercise_17a - RMI Login - Server.iml" filepath="$PROJECT_DIR$/Exercise_17a - RMI Login - Server/Exercise_17a - RMI Login - Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_19a - Proxy Thread Safe List/Exercise_19a - Proxy Thread Safe List.iml" filepath="$PROJECT_DIR$/Exercise_19a - Proxy Thread Safe List/Exercise_19a - Proxy Thread Safe List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_19b - Adapter Synchronized Queue/Exercise_19b - Adapter Synchronized Queue.iml" filepath="$PROJECT_DIR$/Exercise_19b - Adapter Synchronized Queue/Exercise_19b - Adapter Synchronized Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_19c - Proxy Seabear/Exercise_19c - Proxy Seabear.iml" filepath="$PROJECT_DIR$/Exercise_19c - Proxy Seabear/Exercise_19c - Proxy Seabear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_19d - Proxy Logger/Exercise_19d - Proxy Logger.iml" filepath="$PROJECT_DIR$/Exercise_19d - Proxy Logger/Exercise_19d - Proxy Logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_19e - Adapter Queue List Based/Exercise_19e - Adapter Queue List Based.iml" filepath="$PROJECT_DIR$/Exercise_19e - Adapter Queue List Based/Exercise_19e - Adapter Queue List Based.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_20a - Cookie Jar/Exercise_20a - Cookie Jar.iml" filepath="$PROJECT_DIR$/Exercise_20a - Cookie Jar/Exercise_20a - Cookie Jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_20b - Blocking Queue/Exercise_20b - Blocking Queue.iml" filepath="$PROJECT_DIR$/Exercise_20b - Blocking Queue/Exercise_20b - Blocking Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_20c - Carrots v2/Exercise_20c - Carrots v2.iml" filepath="$PROJECT_DIR$/Exercise_20c - Carrots v2/Exercise_20c - Carrots v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_20c - Carrots works/Exercise_20c - Carrots works.iml" filepath="$PROJECT_DIR$/Exercise_20c - Carrots works/Exercise_20c - Carrots works.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_21a - RW Heavy Weight List/Exercise_21a - RW Heavy Weight List.iml" filepath="$PROJECT_DIR$/Exercise_21a - RW Heavy Weight List/Exercise_21a - RW Heavy Weight List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_21b - Toilet/Exercise_21b - Toilet.iml" filepath="$PROJECT_DIR$/Exercise_21b - Toilet/Exercise_21b - Toilet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_22a - RW Heavy Weight List Proxy v2/Exercise_22a - RW Heavy Weight List Proxy v2.iml" filepath="$PROJECT_DIR$/Exercise_22a - RW Heavy Weight List Proxy v2/Exercise_22a - RW Heavy Weight List Proxy v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_22b - RW Heavy Weight List Proxy v3/Exercise_22b - RW Heavy Weight List Proxy v3.iml" filepath="$PROJECT_DIR$/Exercise_22b - RW Heavy Weight List Proxy v3/Exercise_22b - RW Heavy Weight List Proxy v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_23a - Testing Stack/Exercise_23a - Testing Stack.iml" filepath="$PROJECT_DIR$/Exercise_23a - Testing Stack/Exercise_23a - Testing Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMIbroadcast/RMIbroadcast.iml" filepath="$PROJECT_DIR$/RMIbroadcast/RMIbroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDJ2.iml" filepath="$PROJECT_DIR$/SDJ2.iml" />
+    </modules>
+  </component>
+</project>

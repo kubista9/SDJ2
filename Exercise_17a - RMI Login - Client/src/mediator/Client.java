@@ -1,0 +1,1 @@
+//public class Client{public static void main(String[] args) throws Exception{if (System.getSecurityManager() == null){System.setSecurityManager(new SecurityManager());}   RmiTaskClientclient = new RmiTaskClient();client.start();}}
