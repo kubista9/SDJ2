@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="351.0" prefWidth="600.0" userData="Uppercase log" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.ChatViewController">
+      <children>
+         <HBox alignment="TOP_CENTER">
+            <children>
+               <Label text="Chat">
+                  <font>
+                     <Font name="Comic Sans MS" size="48.0" />
+                  </font>
+               </Label>
+            </children>
+         </HBox>
+         <ListView fx:id="logList" editable="false" prefHeight="213.0" prefWidth="600.0" />
+      <HBox prefHeight="35.0" prefWidth="600.0">
+         <children>
+               <TextField fx:id="inputField" onAction="#onEnter" prefHeight="30.0" prefWidth="489.0">
+                  <font>
+                  <Font size="14.0" />
+               </font>
+               </TextField>
+            <Button fx:id="postButton" mnemonicParsing="false" onAction="#postButton" prefHeight="38.0" prefWidth="110.0" text="Post" />
+         </children>
+      </HBox>
+      <Label fx:id="errorLabel" prefHeight="27.0" prefWidth="502.0" text="Error" textFill="RED">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      </children>
+</VBox>
